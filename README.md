@@ -4,7 +4,7 @@ https://efi-1.github.io/Radio/
 <br>
 https://efi-1.github.io/_Radio-2/
 <br>
-https://efi-1.github.io/EFI-1_RADIORDwEhFeemOS/
+https://efi-1.github.io/RADIORD/
 <br>
 <br>
 1#EFI-1_Radio NOTES
